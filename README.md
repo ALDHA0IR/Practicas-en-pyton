@@ -2,8 +2,7 @@
 
 Repositorio donde estaré publicando mis proyectos para practicar en Python
 
-Link to the sample section: [Link Text](#sample-section).
-
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 
 > [!NOTE]
